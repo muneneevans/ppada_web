@@ -1,10 +1,10 @@
 import React, { Component } from "react"
-import { Grid, List, Header, Container, Divider, Button } from "semantic-ui-react"
 import Segment from "semantic-ui-react/dist/commonjs/elements/Segment/Segment";
 import configureStore from "../Store/configureStore";
 var topics = require("../Store/topics.json")
 var content = require("../Store/content.json")
 
+import { Grid, List, Header, Container, Divider, Button, Input } from "semantic-ui-react"
 //import screens here
 
 export default class App extends Component {
@@ -12,7 +12,8 @@ export default class App extends Component {
 	constructor(props) {
 		super(props)
 		this.state = {
-			currentNote: content[0]
+			currentNote: content[0],
+			topics: topics
 		}
 	}
 	topicClicked(topicId) {
@@ -46,6 +47,28 @@ export default class App extends Component {
 		}
 	}
 
+	searchTopic(text) {
+		if (text == "") {
+			this.setState({
+				...this.state,
+				topics
+			})
+		}
+		else {
+
+			var found = topics.filter(item => {
+				return item.name.toLowerCase().indexOf(text.toLowerCase()) !== -1
+				// return text.every( element =>{
+				// })
+			})
+
+			this.setState({
+				...this.state,
+				topics: found
+			})
+		}
+	}
+
 	render() {
 		return (
 			//add screen inside the div
@@ -58,9 +81,10 @@ export default class App extends Component {
 				<Grid columns={2} padded>
 					<Grid.Column width={4}>
 						<Segment>
-							{topics ? (
+							<Input onChange={(e) => { this.searchTopic(e.target.value) }} />
+							{this.state.topics ? (
 								<List>
-									{topics.map(topic => (
+									{this.state.topics.map(topic => (
 										<List.Item key={topic.id}>
 											<List.Icon name="folder" />
 											<List.Content>
