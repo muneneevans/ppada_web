@@ -1,10 +1,11 @@
 import React, { Component } from "react"
-import Segment from "semantic-ui-react/dist/commonjs/elements/Segment/Segment";
-import configureStore from "../Store/configureStore";
+import Segment from "semantic-ui-react/dist/commonjs/elements/Segment/Segment"
+import configureStore from "../Store/configureStore"
 var topics = require("../Store/topics.json")
 var content = require("../Store/content.json")
+import LogoImg from "../Assets/Images/ppada.png";
 
-import { Grid, List, Header, Container, Divider, Button, Input } from "semantic-ui-react"
+import { Grid, List, Header, Container, Divider, Button, Input, Image } from "semantic-ui-react"
 //import screens here
 
 export default class App extends Component {
@@ -75,13 +76,15 @@ export default class App extends Component {
 			<div>
 				<Grid padded stretched>
 					<Container fluid>
-						<Header as='h1'>PPADA</Header>
+						<Image src={LogoImg} size='small' />
 					</Container>
 				</Grid>
 				<Grid columns={2} padded>
 					<Grid.Column width={4}>
 						<Segment>
-							<Input onChange={(e) => { this.searchTopic(e.target.value) }} />
+							<Container fluid>
+								<Input onChange={(e) => { this.searchTopic(e.target.value) }} />
+							</Container>
 							{this.state.topics ? (
 								<List>
 									{this.state.topics.map(topic => (
@@ -95,8 +98,8 @@ export default class App extends Component {
 									))}
 								</List>
 							) : (
-									<h5>No topics found</h5>
-								)}
+								<h5>No topics found</h5>
+							)}
 						</Segment>
 					</Grid.Column>
 
