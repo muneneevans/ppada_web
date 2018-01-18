@@ -3,7 +3,7 @@ import Segment from "semantic-ui-react/dist/commonjs/elements/Segment/Segment"
 import configureStore from "../Store/configureStore"
 var topics = require("../Store/topics.json")
 var content = require("../Store/content.json")
-import LogoImg from "../Assets/Images/ppada.png";
+import LogoImg from "../Assets/Images/ppada.png"
 
 import { Grid, List, Header, Container, Divider, Button, Input, Image } from "semantic-ui-react"
 //import screens here
