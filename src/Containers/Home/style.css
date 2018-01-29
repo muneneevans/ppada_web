@@ -1,0 +1,55 @@
+.body{
+	width: 100%;
+}
+
+.container{
+	position: relative;
+	margin: auto;
+	width: 100%;
+	height: auto;
+}
+
+.header {
+    height:50px;
+    background: #ffffff;
+    border:1px solid #ffff;
+    width:100%;
+	margin:0px auto;
+	position:fixed;
+	top:0px;
+	overflow-y: hidden;
+	padding: 5px;
+}
+
+.footer{
+	width:100%;
+	background: #f1592a;
+	margin:0px auto;
+	position:fixed;
+	bottom:0px;
+	padding-top: 30px;
+	padding-bottom:  30px;
+}
+.content{
+	margin-top: 50px;
+}
+
+.logoImage{
+	max-height: 50px;
+}
+
+.bannerImage{
+	width: 100%;
+	height: auto;
+	max-height: 75vh;
+}
+
+.footer div{
+	width: 100%;
+	display: -webkit-flex; /* Safari */
+    -webkit-align-items: center; /* Safari 7.0+ */
+    display: flex;
+	align-items: center;
+	text-align: center;
+	justify-content: center;
+}

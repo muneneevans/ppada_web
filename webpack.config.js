@@ -10,7 +10,7 @@ var config = {
 	output: {
 		path: DIST_DIR + "/build",
 		filename: "main.js",
-		publicPath: "/ppada_web/build/"
+		publicPath: "/build/"
 	},
 	plugins:[
 		new ExtractTextPlugin("[name].css")
