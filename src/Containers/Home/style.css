@@ -1,55 +1,32 @@
-.body{
-	width: 100%;
-}
+ body {
+    background-color: #FFFFFF;
+  }
+  .ui.menu .item img.logo {
+    margin-right: 1.5em;
+  }
+  .main.container {
+    margin-top: 7em;
+  }
+  .wireframe {
+    margin-top: 2em;
+  }
+  .ui.footer.segment {
+    margin: 5em 0em 0em;
+    padding: 5em 0em;
+  }
 
-.container{
-	position: relative;
-	margin: auto;
-	width: 100%;
-	height: auto;
-}
+  .banner{
+	  background-image: url("./images/building.jpeg") !important;
+	  background-size: cover !important;
+	  background-position: center center !important;
+  }
 
-.header {
-    height:50px;
-    background: #ffffff;
-    border:1px solid #ffff;
-    width:100%;
-	margin:0px auto;
-	position:fixed;
-	top:0px;
-	overflow-y: hidden;
-	padding: 5px;
-}
+  .contentBlock{
+	  background-color: #F2C318 !important;
+  }
 
-.footer{
-	width:100%;
-	background: #f1592a;
-	margin:0px auto;
-	position:fixed;
-	bottom:0px;
-	padding-top: 30px;
-	padding-bottom:  30px;
-}
-.content{
-	margin-top: 50px;
-}
-
-.logoImage{
-	max-height: 50px;
-}
-
-.bannerImage{
-	width: 100%;
-	height: auto;
-	max-height: 75vh;
-}
-
-.footer div{
-	width: 100%;
-	display: -webkit-flex; /* Safari */
-    -webkit-align-items: center; /* Safari 7.0+ */
-    display: flex;
-	align-items: center;
-	text-align: center;
-	justify-content: center;
-}
+  .menu{
+    background-color: #201544 !important;
+    color: #FFFFFF !important;
+  }
+  
