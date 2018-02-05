@@ -17,24 +17,6 @@ import {
 	Visibility
 } from "semantic-ui-react"
 
-const FixedMenu = () => (
-	<Menu fixed="top" size="large" className="menu topMenu" inverted>
-		<Container>
-			<Link to="/">
-				<Menu.Item as="a" active>
-					Home
-				</Menu.Item>
-			</Link>
-			<Link to="/book">
-				<Menu.Item as="a" active>
-					Book
-				</Menu.Item>
-			</Link>
-			
-		</Container>
-	</Menu>
-)
-
 class Home extends Component {
 	state = {}
 
@@ -46,8 +28,6 @@ class Home extends Component {
 
 		return (
 			<div>
-				<FixedMenu />
-
 				<Visibility
 					as="div"
 					onBottomPassed={this.showFixedMenu}
@@ -64,14 +44,14 @@ class Home extends Component {
 						>
 							<Container text>
 								<Header
-									as="h1"
-									content="PPARA"
+									as="h2"
+									content="PUBLIC PROCUREMENT AND ASSETS DISPOSAL ACT 2015"
 									inverted
 									style={{
-										fontSize: "4em",
+										fontSize: "2.5em",
 										fontWeight: "normal",
 										marginBottom: 0,
-										marginTop: "3em"
+										marginTop: "5em"
 									}}
 								/>
 								<Header
@@ -82,7 +62,7 @@ class Home extends Component {
 								/>
 								<Link to="/book">
 									<Button primary size="huge">
-										Read The book
+										Read The ACT
 										<Icon name="right arrow" />
 									</Button>
 								</Link>
@@ -94,39 +74,48 @@ class Home extends Component {
 				<Segment
 					style={{ padding: "8em 0em" }}
 					vertical
-					className="contentBlockx"
+					className="contentBlock"
 				>
 					<Grid container stackable verticalAlign="middle">
 						<Grid.Row>
-							<Grid.Column width={8}>
+							<Grid.Column width={12}>
 								<Header as="h3" style={{ fontSize: "2em" }}>
-									We Help Companies and Companions
+									What it is about
 								</Header>
 								<p style={{ fontSize: "1.33em" }}>
-									We can give your company superpowers to do things that they
-									never thought possible. Let us delight your customers and
-									empower your needs... through pure data analytics.
+									The Public Procurement and Disposal Act, 2015 (the PPDA, 2015)
+									came into force on 7th January, 2016. The PPDA, 2015 is an Act
+									of Parliament that seeks to give effect to Article 227 of the
+									Constitution which requires that an Act of Parliament be
+									enacted to prescribe a framework within which policies
+									relating to procurement and asset disposal in respect of a
+									State organ or any other public entity shall be implemented.
+									The PPDA, 2015 repealed the Public Procurement and Disposal
+									Act, 2005 (the PPDA 2005)
 								</p>
-								<Header as="h3" style={{ fontSize: "2em" }}>
-									We Make Bananas That Can Dance
-								</Header>
+
 								<p style={{ fontSize: "1.33em" }}>
-									Yes that's right, you thought it was the stuff of dreams, but
-									even bananas can be bioengineered.
+									The PPDA, 2015 applies to all State organs and public entities
+									with respect to procurement planning, procurement processing,
+									inventory and asset management, disposal of assets and
+									contract management. The PPDA, 2015 goes on to list the
+									entities that would fall under the definition of a “public
+									entity” including but not limited to the national and county
+									governments (including any of their organs or departments),
+									the Central Bank of Kenya, state corporations and companies
+									owned by public entities.
 								</p>
 							</Grid.Column>
-							<Grid.Column floated="right" width={6}>
-								<Image
-									bordered
-									rounded
-									size="large"
-									src="/assets/images/wireframe/white-image.png"
-								/>
-							</Grid.Column>
+							<Grid.Column floated="right" width={2} />
 						</Grid.Row>
 						<Grid.Row>
 							<Grid.Column textAlign="center">
-								<Button size="huge">Check Them Out</Button>
+								<Link to="/book">
+									<Button bordered size="huge">
+										Read The ACT
+										<Icon name="right arrow" />
+									</Button>
+								</Link>
 							</Grid.Column>
 						</Grid.Row>
 					</Grid>
@@ -134,35 +123,12 @@ class Home extends Component {
 
 				<Segment inverted vertical style={{ padding: "5em 0em" }}>
 					<Container>
-						<Grid divided inverted stackable>
-							<Grid.Row>
-								<Grid.Column width={3}>
-									<Header inverted as="h4" content="About" />
-									<List link inverted>
-										<List.Item as="a">Sitemap</List.Item>
-										<List.Item as="a">Contact Us</List.Item>
-										<List.Item as="a">Religious Ceremonies</List.Item>
-										<List.Item as="a">Gazebo Plans</List.Item>
-									</List>
-								</Grid.Column>
-								<Grid.Column width={3}>
-									<Header inverted as="h4" content="Services" />
-									<List link inverted>
-										<List.Item as="a">Banana Pre-Order</List.Item>
-										<List.Item as="a">DNA FAQ</List.Item>
-										<List.Item as="a">How To Access</List.Item>
-										<List.Item as="a">Favorite X-Men</List.Item>
-									</List>
-								</Grid.Column>
-								<Grid.Column width={7}>
-									<Header as="h4" inverted>
-										Footer Header
-									</Header>
-									<p>
-										Extra space for a call to action inside the footer that
-										could help re-engage users.
-									</p>
-								</Grid.Column>
+						<Grid divided inverted stackable stretched center>
+							<Grid.Row centered>
+									<Header inverted as="h4">
+										PUBLIC PROCUREMENT AND ASSETS DISPOSAL ACT
+										2015
+									</Header>								
 							</Grid.Row>
 						</Grid>
 					</Container>

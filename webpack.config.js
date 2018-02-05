@@ -1,9 +1,9 @@
-var webpack = require("webpack");
-var ExtractTextPlugin = require("extract-text-webpack-plugin");
-var path = require("path");
+var webpack = require("webpack")
+var ExtractTextPlugin = require("extract-text-webpack-plugin")
+var path = require("path")
 
-var DIST_DIR = path.resolve(__dirname,"public");
-var SRC_DIR = path.resolve(__dirname, "src");
+var DIST_DIR = path.resolve(__dirname, "public")
+var SRC_DIR = path.resolve(__dirname, "src")
 
 var config = {
 	entry: SRC_DIR + "/index.js",
@@ -12,9 +12,7 @@ var config = {
 		filename: "main.js",
 		publicPath: "/build/"
 	},
-	plugins:[
-		new ExtractTextPlugin("[name].css")
-	],
+	plugins: [new ExtractTextPlugin("[name].css")],
 	module: {
 		loaders: [
 			{
@@ -22,7 +20,7 @@ var config = {
 				include: SRC_DIR,
 				loader: "babel-loader",
 				query: {
-					presets: ["react","es2015","stage-2"]
+					presets: ["react", "es2015", "stage-2"]
 				}
 			},
 			{
@@ -31,8 +29,10 @@ var config = {
 			},
 			{
 				test: /\.css$/,
-				loader: ExtractTextPlugin.extract({ fallback: "style-loader", use: "css-loader" }
-				)
+				loader: ExtractTextPlugin.extract({
+					fallback: "style-loader",
+					use: "css-loader"
+				})
 			},
 			{
 				test: /\.json$/,
@@ -40,7 +40,6 @@ var config = {
 			}
 		]
 	}
-};
+}
 
-
-module.exports = config ;
+module.exports = config
