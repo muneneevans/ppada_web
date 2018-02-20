@@ -1,1 +1,777 @@
-[{"name":"Short title","topicId":2},{"name":"Guiding principles","topicId":3},{"name":"Conflicts with other Acts","topicId":4},{"name":"Application of the Act","topicId":5},{"name":"PUBLIC PROCUREMENT AND ASSET DISPOSAL ACT","topicId":6},{"name":"Conflicts with international agreements","topicId":7},{"name":"Interpretation","topicId":8},{"name":"Accounting officer","topicId":9},{"name":"Appeal","topicId":10},{"name":"Role National Treasury on public procurement and assets disposal","topicId":11},{"name":"The Public Procurement Regulatory Authority","topicId":12},{"name":"Functions of Authority","topicId":13},{"name":"Public Procurement Regulatory Board","topicId":14},{"name":"Qualifications of members of the Board","topicId":15},{"name":"Functions of the Board","topicId":16},{"name":"Tenure of office","topicId":17},{"name":"Procedures of the Board","topicId":18},{"name":"Director-General of the Authority","topicId":19},{"name":"Term of office of Director-General","topicId":20},{"name":"Functions of the Director-General","topicId":21},{"name":"Restrictions on activities of Director-General","topicId":22},{"name":"Terms and conditions of service of Director-General and staff","topicId":23},{"name":"Vacancy of office","topicId":24},{"name":"Removal of Director-General","topicId":25},{"name":"Acting Director-General","topicId":26},{"name":"Staff of the Authority","topicId":27},{"name":"Financial arrangements","topicId":28},{"name":"Audit","topicId":29},{"name":"Annual reports","topicId":30},{"name":"Establishment of the Public Procurement Administrative Review Board","topicId":31},{"name":"Functions and powers of the Review Board","topicId":32},{"name":"Composition of the Review Board","topicId":33},{"name":"Qualifications of members of the Review Board","topicId":34},{"name":"Tenure of Office","topicId":35},{"name":"Terms and conditions of service of the Review Board members","topicId":36},{"name":"Roles and Responsibilities of the County Government","topicId":37},{"name":"Powers to ensure compliance","topicId":38},{"name":"Investigations","topicId":39},{"name":"Powers of investigators","topicId":40},{"name":"Report of investigation","topicId":41},{"name":"Order by the Director-General","topicId":42},{"name":"Request for a Judicial review","topicId":43},{"name":"No investigation if issue before Review Board","topicId":44},{"name":"Debarment","topicId":45},{"name":"Judicial Review","topicId":46},{"name":"Inspections, Assessments and Reviews relating to contracts, procurement and asset disposal proceedings","topicId":47},{"name":"Responsibilities of the accounting officer","topicId":48},{"name":"Corporate decisions and segregation of responsibilities","topicId":49},{"name":"Evaluation Committee","topicId":50},{"name":"Procurement function","topicId":51},{"name":"Inspection and acceptance committee","topicId":52},{"name":"Sector-specific procuring and disposal agencies","topicId":53},{"name":"Consortium buying","topicId":54},{"name":"Procuring agents or asset disposal agents","topicId":55},{"name":"Transfer of procuring responsibility to another public entity or procuring agent","topicId":56},{"name":"Procurement and asset disposal planning","topicId":57},{"name":"Procurement pricing and requirement not to split of contracts","topicId":58},{"name":"Eligibility to bid","topicId":59},{"name":"Use of list of another state organ or public entity","topicId":60},{"name":"List of registered suppliers","topicId":61},{"name":"Standard procurement and asset disposal documents","topicId":62},{"name":"Limitation on contracts with state and public officers","topicId":63},{"name":"Specific requirements","topicId":64},{"name":"Tender security","topicId":65},{"name":"Declaration not to engage in corruption","topicId":66},{"name":"Termination or cancellation of procurement and asset disposal proceedings","topicId":67},{"name":"Form of communications, electronic procurement and asset disposal","topicId":68},{"name":"Inappropriate influence on evaluations, etc","topicId":69},{"name":"Corrupt, coercive, obstructive, collusive or fraudulent practice, conflicts of interest","topicId":70},{"name":"Confidentiality","topicId":71},{"name":"Procurement records","topicId":72},{"name":"Procurement approvals","topicId":73},{"name":"Standard tender documents","topicId":74},{"name":"Registration of suppliers","topicId":75},{"name":"Responsibility for complying with Act, etc","topicId":76},{"name":"Initiation of procurement process","topicId":77},{"name":"Invitation to tender","topicId":78},{"name":"Modifications to tender documents","topicId":79},{"name":"Modification of bids","topicId":80},{"name":"Submission and receipt of tenders","topicId":81},{"name":"Opening of tenders","topicId":82},{"name":"Responsiveness of tenders","topicId":83},{"name":"Evaluation of tenders","topicId":84},{"name":"Clarifications","topicId":85},{"name":"No correction of errors","topicId":86},{"name":"Post-qualification","topicId":87},{"name":"Professional opinion","topicId":88},{"name":"Recommendation for contract awards","topicId":89},{"name":"Successful tender","topicId":90},{"name":"Notification of intention to enter into a contract","topicId":91},{"name":"Extension of tender validity period","topicId":92},{"name":"International tendering and competition","topicId":93},{"name":"Classified procurements and disposals","topicId":94},{"name":"Choice of procurement procedure","topicId":95},{"name":"Methods of procurement","topicId":96},{"name":"Pre-qualification","topicId":97},{"name":"Pre-qualification documents","topicId":98},{"name":"Approval of pre-qualified candidates","topicId":99},{"name":"Advertisement","topicId":100},{"name":"Time for preparing tenders","topicId":101},{"name":"Provision of tender documents","topicId":102},{"name":"Two-Stage Tendering","topicId":103},{"name":"Condition for use of Design Competitions","topicId":104},{"name":"Procedure for design competition","topicId":105},{"name":"Restricted tendering","topicId":106},{"name":"When direct procurement may be used","topicId":107},{"name":"Procedure for direct procurement","topicId":108},{"name":"When request for quotations may be used","topicId":109},{"name":"Procedure for request for quotations","topicId":110},{"name":"When low-value procurement may be used","topicId":111},{"name":"Procedure for low-value procurement","topicId":112},{"name":"Force Account","topicId":113},{"name":"Reverse Auction","topicId":114},{"name":"Conditions for use of Reverse Auctions","topicId":115},{"name":"Procedure for Reverse Auction","topicId":116},{"name":"Successful reverse auctioneering bid","topicId":117},{"name":"Framework agreement","topicId":118},{"name":"Specially permitted procurement procedure","topicId":119},{"name":"Application of this Part","topicId":120},{"name":"When request for proposals may be used","topicId":121},{"name":"Terms of reference and invitation of tenders from shortlisted firms","topicId":122},{"name":"Request for proposal inviting expression of interest","topicId":123},{"name":"Notice inviting expressions of interest","topicId":124},{"name":"Opening of proposals","topicId":125},{"name":"Evaluation and shortlisting","topicId":126},{"name":"Determination of qualified persons","topicId":127},{"name":"Request for proposals to qualified persons","topicId":128},{"name":"Selection methods for requests for proposals","topicId":129},{"name":"Time for preparing proposals","topicId":130},{"name":"Evaluation of proposals","topicId":131},{"name":"Successful proposal","topicId":132},{"name":"Negotiations with successful request for proposal tenderer","topicId":133},{"name":"Contract requirements","topicId":134},{"name":"Restriction on entering into related contracts","topicId":135},{"name":"Competitive Negotiations","topicId":136},{"name":"Procedure for Competitive Negotiations","topicId":137},{"name":"Successful best and final offer","topicId":138},{"name":"Preparation of contracts","topicId":139},{"name":"Creation of procurement contracts","topicId":140},{"name":"Refusal to sign contract","topicId":141},{"name":"Changes to contract responsibilities","topicId":142},{"name":"Publication of procurement contract","topicId":143},{"name":"Amendments or variations to contracts","topicId":144},{"name":"Interest on overdue amounts and liquidated damages","topicId":145},{"name":"Framework Contracting","topicId":146},{"name":"Performance Security","topicId":147},{"name":"Nature of performance security","topicId":148},{"name":"Seizure of the performance Security","topicId":149},{"name":"Recovery of the performance Security","topicId":150},{"name":"Advance payment","topicId":151},{"name":"Use of advance payment","topicId":152},{"name":"Sub-contracting","topicId":153},{"name":"Contract administration","topicId":154},{"name":"Complex and specialized contract implementation team","topicId":155},{"name":"Contract monitoring","topicId":156},{"name":"Termination of contract","topicId":157},{"name":"Contract close out","topicId":158},{"name":"Requirement for preferences and reservations","topicId":159},{"name":"Eligibility for more than one preference scheme","topicId":160},{"name":"Participation of candidates in preference and reservations","topicId":161},{"name":"Procurement plans and monitoring compliance","topicId":162},{"name":"Receipt, and recording of goods, works and services","topicId":163},{"name":"Objectives of Inventory Control, Asset and Stores Management and Distribution","topicId":164},{"name":"Inventory, Stores and Assets Management system","topicId":165},{"name":"Management of Inventory, Stores and Assets","topicId":166},{"name":"Disposal committee","topicId":167},{"name":"students","topicId":168},{"name":"Disposal procedure","topicId":169},{"name":"Methods of disposal","topicId":170},{"name":"Restriction on disposal to employees, etc","topicId":171},{"name":"Request for a review","topicId":172},{"name":"Notification of review and suspension of proceedings","topicId":173},{"name":"Rejection of requests by Review Board Secretariat","topicId":174},{"name":"Parties to review","topicId":175},{"name":"Completion of review","topicId":176},{"name":"Dismissal of frivolous appeals","topicId":177},{"name":"Powers of Review Board","topicId":178},{"name":"Right to review is additional right","topicId":179},{"name":"Right to judicial review to procurement","topicId":180},{"name":"Prohibitions and offences","topicId":181},{"name":"General penalty and sanctions","topicId":182},{"name":"Protection from personal liability and indemnity","topicId":183},{"name":"Consultative meetings","topicId":184},{"name":"Making of Regulations","topicId":185},{"name":"Code of Ethics","topicId":186},{"name":"Repeal of No. 3 of 2005 and savings","topicId":187},{"name":"Transitional provisions","topicId":188},{"name":"Meetings","topicId":189},{"name":"Voting","topicId":190},{"name":"Chairperson and Vice Chairperson","topicId":191},{"name":"Secretary","topicId":192},{"name":"Minutes","topicId":193}]
+[
+	{
+		"name": "Short title",
+		"topicId": 2
+	},
+	{
+		"name": "Interpretation",
+		"topicId": 8
+	},
+	{
+		"name": "Guiding principles",
+		"topicId": 3
+	},
+	{
+		"name": "Application of the Act",
+		"topicId": 5
+	},
+	{
+		"name": "Conflicts with other Acts",
+		"topicId": 4
+	},
+	{
+		"name": "Conflicts with international agreements",
+		"topicId": 7
+	},
+	{
+		"name": "Role National Treasury on public procurement and assets disposal",
+		"topicId": 11
+	},
+	{
+		"name": "PUBLIC PROCUREMENT AND ASSET DISPOSAL ACT",
+		"topicId": 6
+	},
+	{
+		"name": "Functions of Authority",
+		"topicId": 13
+	},
+	{
+		"name": "Public Procurement Regulatory Board",
+		"topicId": 14
+	},
+	{
+		"name": "Qualifications of members of the Board",
+		"topicId": 15
+	},
+	{
+		"name": "Functions of the Board",
+		"topicId": 16
+	},
+	{
+		"name": "Tenure of office",
+		"topicId": 17
+	},
+	{
+		"name": "Procedures of the Board",
+		"topicId": 18
+	},
+	{
+		"name": "Director-General of the Authority",
+		"topicId": 19
+	},
+	{
+		"name": "Term of office of Director-General",
+		"topicId": 20
+	},
+	{
+		"name": "Functions of the Director-General",
+		"topicId": 21
+	},
+	{
+		"name": "Restrictions on activities of Director-General",
+		"topicId": 22
+	},
+	{
+		"name": "Terms and conditions of service of Director-General and staff",
+		"topicId": 23
+	},
+	{
+		"name": "Vacancy of office",
+		"topicId": 24
+	},
+	{
+		"name": "Removal of Director-General",
+		"topicId": 25
+	},
+	{
+		"name": "Acting Director-General",
+		"topicId": 26
+	},
+	{
+		"name": "Accounting officer",
+		"topicId": 9
+	},
+	{
+		"name": "Appeal",
+		"topicId": 10
+	},
+	{
+		"name": "The Public Procurement Regulatory Authority",
+		"topicId": 12
+	},
+	{
+		"name": "Staff of the Authority",
+		"topicId": 27
+	},
+	{
+		"name": "Financial arrangements",
+		"topicId": 28
+	},
+	{
+		"name": "Audit",
+		"topicId": 29
+	},
+	{
+		"name": "Annual reports",
+		"topicId": 30
+	},
+	{
+		"name":
+			"Establishment of the Public Procurement Administrative Review Board",
+		"topicId": 31
+	},
+	{
+		"name": "Functions and powers of the Review Board",
+		"topicId": 32
+	},
+	{
+		"name": "Composition of the Review Board",
+		"topicId": 33
+	},
+	{
+		"name": "Qualifications of members of the Review Board",
+		"topicId": 34
+	},
+	{
+		"name": "Tenure of Office",
+		"topicId": 35
+	},
+	{
+		"name": "Terms and conditions of service of the Review Board members",
+		"topicId": 36
+	},
+	{
+		"name": "Roles and Responsibilities of the County Government",
+		"topicId": 37
+	},
+	{
+		"name": "Powers to ensure compliance",
+		"topicId": 38
+	},
+	{
+		"name": "Investigations",
+		"topicId": 39
+	},
+	{
+		"name": "Powers of investigators",
+		"topicId": 40
+	},
+	{
+		"name": "Report of investigation",
+		"topicId": 41
+	},
+	{
+		"name": "Order by the Director-General",
+		"topicId": 42
+	},
+	{
+		"name": "Request for a Judicial review",
+		"topicId": 43
+	},
+	{
+		"name": "No investigation if issue before Review Board",
+		"topicId": 44
+	},
+	{
+		"name": "Debarment",
+		"topicId": 45
+	},
+	{
+		"name": "Judicial Review",
+		"topicId": 46
+	},
+	{
+		"name":
+			"Inspections, Assessments and Reviews relating to contracts, procurement and asset disposal proceedings",
+		"topicId": 47
+	},
+	{
+		"name": "Responsibilities of the accounting officer",
+		"topicId": 48
+	},
+	{
+		"name": "Corporate decisions and segregation of responsibilities",
+		"topicId": 49
+	},
+	{
+		"name": "Evaluation Committee",
+		"topicId": 50
+	},
+	{
+		"name": "Procurement function",
+		"topicId": 51
+	},
+	{
+		"name": "Inspection and acceptance committee",
+		"topicId": 52
+	},
+	{
+		"name": "Sector-specific procuring and disposal agencies",
+		"topicId": 53
+	},
+	{
+		"name": "Consortium buying",
+		"topicId": 54
+	},
+	{
+		"name": "Procuring agents or asset disposal agents",
+		"topicId": 55
+	},
+	{
+		"name":
+			"Transfer of procuring responsibility to another public entity or procuring agent",
+		"topicId": 56
+	},
+	{
+		"name": "Procurement and asset disposal planning",
+		"topicId": 57
+	},
+	{
+		"name": "Procurement pricing and requirement not to split of contracts",
+		"topicId": 58
+	},
+	{
+		"name": "Eligibility to bid",
+		"topicId": 59
+	},
+	{
+		"name": "Use of list of another state organ or public entity",
+		"topicId": 60
+	},
+	{
+		"name": "List of registered suppliers",
+		"topicId": 61
+	},
+	{
+		"name": "Standard procurement and asset disposal documents",
+		"topicId": 62
+	},
+	{
+		"name": "Limitation on contracts with state and public officers",
+		"topicId": 63
+	},
+	{
+		"name": "Specific requirements",
+		"topicId": 64
+	},
+	{
+		"name": "Tender security",
+		"topicId": 65
+	},
+	{
+		"name": "Declaration not to engage in corruption",
+		"topicId": 66
+	},
+	{
+		"name":
+			"Termination or cancellation of procurement and asset disposal proceedings",
+		"topicId": 67
+	},
+	{
+		"name": "Form of communications, electronic procurement and asset disposal",
+		"topicId": 68
+	},
+	{
+		"name": "Inappropriate influence on evaluations, etc",
+		"topicId": 69
+	},
+	{
+		"name":
+			"Corrupt, coercive, obstructive, collusive or fraudulent practice, conflicts of interest",
+		"topicId": 70
+	},
+	{
+		"name": "Confidentiality",
+		"topicId": 71
+	},
+	{
+		"name": "Procurement records",
+		"topicId": 72
+	},
+	{
+		"name": "Procurement approvals",
+		"topicId": 73
+	},
+	{
+		"name": "Standard tender documents",
+		"topicId": 74
+	},
+	{
+		"name": "Registration of suppliers",
+		"topicId": 75
+	},
+	{
+		"name": "Responsibility for complying with Act, etc",
+		"topicId": 76
+	},
+	{
+		"name": "Initiation of procurement process",
+		"topicId": 77
+	},
+	{
+		"name": "Invitation to tender",
+		"topicId": 78
+	},
+	{
+		"name": "Modifications to tender documents",
+		"topicId": 79
+	},
+	{
+		"name": "Modification of bids",
+		"topicId": 80
+	},
+	{
+		"name": "Submission and receipt of tenders",
+		"topicId": 81
+	},
+	{
+		"name": "Opening of tenders",
+		"topicId": 82
+	},
+	{
+		"name": "Responsiveness of tenders",
+		"topicId": 83
+	},
+	{
+		"name": "Evaluation of tenders",
+		"topicId": 84
+	},
+	{
+		"name": "Clarifications",
+		"topicId": 85
+	},
+	{
+		"name": "No correction of errors",
+		"topicId": 86
+	},
+	{
+		"name": "Post-qualification",
+		"topicId": 87
+	},
+	{
+		"name": "Professional opinion",
+		"topicId": 88
+	},
+	{
+		"name": "Recommendation for contract awards",
+		"topicId": 89
+	},
+	{
+		"name": "Successful tender",
+		"topicId": 90
+	},
+	{
+		"name": "Notification of intention to enter into a contract",
+		"topicId": 91
+	},
+	{
+		"name": "Extension of tender validity period",
+		"topicId": 92
+	},
+	{
+		"name": "International tendering and competition",
+		"topicId": 93
+	},
+	{
+		"name": "Classified procurements and disposals",
+		"topicId": 94
+	},
+	{
+		"name": "Choice of procurement procedure",
+		"topicId": 95
+	},
+	{
+		"name": "Methods of procurement",
+		"topicId": 96
+	},
+	{
+		"name": "Pre-qualification",
+		"topicId": 97
+	},
+	{
+		"name": "Pre-qualification documents",
+		"topicId": 98
+	},
+	{
+		"name": "Approval of pre-qualified candidates",
+		"topicId": 99
+	},
+	{
+		"name": "Advertisement",
+		"topicId": 100
+	},
+	{
+		"name": "Time for preparing tenders",
+		"topicId": 101
+	},
+	{
+		"name": "Provision of tender documents",
+		"topicId": 102
+	},
+	{
+		"name": "Two-Stage Tendering",
+		"topicId": 103
+	},
+	{
+		"name": "Condition for use of Design Competitions",
+		"topicId": 104
+	},
+	{
+		"name": "Procedure for design competition",
+		"topicId": 105
+	},
+	{
+		"name": "Restricted tendering",
+		"topicId": 106
+	},
+	{
+		"name": "When direct procurement may be used",
+		"topicId": 107
+	},
+	{
+		"name": "Procedure for direct procurement",
+		"topicId": 108
+	},
+	{
+		"name": "When request for quotations may be used",
+		"topicId": 109
+	},
+	{
+		"name": "Procedure for request for quotations",
+		"topicId": 110
+	},
+	{
+		"name": "When low-value procurement may be used",
+		"topicId": 111
+	},
+	{
+		"name": "Procedure for low-value procurement",
+		"topicId": 112
+	},
+	{
+		"name": "Force Account",
+		"topicId": 113
+	},
+	{
+		"name": "Reverse Auction",
+		"topicId": 114
+	},
+	{
+		"name": "Conditions for use of Reverse Auctions",
+		"topicId": 115
+	},
+	{
+		"name": "Procedure for Reverse Auction",
+		"topicId": 116
+	},
+	{
+		"name": "Successful reverse auctioneering bid",
+		"topicId": 117
+	},
+	{
+		"name": "Framework agreement",
+		"topicId": 118
+	},
+	{
+		"name": "Specially permitted procurement procedure",
+		"topicId": 119
+	},
+	{
+		"name": "Application of this Part",
+		"topicId": 120
+	},
+	{
+		"name": "When request for proposals may be used",
+		"topicId": 121
+	},
+	{
+		"name":
+			"Terms of reference and invitation of tenders from shortlisted firms",
+		"topicId": 122
+	},
+	{
+		"name": "Request for proposal inviting expression of interest",
+		"topicId": 123
+	},
+	{
+		"name": "Notice inviting expressions of interest",
+		"topicId": 124
+	},
+	{
+		"name": "Opening of proposals",
+		"topicId": 125
+	},
+	{
+		"name": "Evaluation and shortlisting",
+		"topicId": 126
+	},
+	{
+		"name": "Determination of qualified persons",
+		"topicId": 127
+	},
+	{
+		"name": "Request for proposals to qualified persons",
+		"topicId": 128
+	},
+	{
+		"name": "Selection methods for requests for proposals",
+		"topicId": 129
+	},
+	{
+		"name": "Time for preparing proposals",
+		"topicId": 130
+	},
+	{
+		"name": "Evaluation of proposals",
+		"topicId": 131
+	},
+	{
+		"name": "Successful proposal",
+		"topicId": 132
+	},
+	{
+		"name": "Negotiations with successful request for proposal tenderer",
+		"topicId": 133
+	},
+	{
+		"name": "Contract requirements",
+		"topicId": 134
+	},
+	{
+		"name": "Restriction on entering into related contracts",
+		"topicId": 135
+	},
+	{
+		"name": "Competitive Negotiations",
+		"topicId": 136
+	},
+	{
+		"name": "Procedure for Competitive Negotiations",
+		"topicId": 137
+	},
+	{
+		"name": "Successful best and final offer",
+		"topicId": 138
+	},
+	{
+		"name": "Preparation of contracts",
+		"topicId": 139
+	},
+	{
+		"name": "Creation of procurement contracts",
+		"topicId": 140
+	},
+	{
+		"name": "Refusal to sign contract",
+		"topicId": 141
+	},
+	{
+		"name": "Changes to contract responsibilities",
+		"topicId": 142
+	},
+	{
+		"name": "Publication of procurement contract",
+		"topicId": 143
+	},
+	{
+		"name": "Amendments or variations to contracts",
+		"topicId": 144
+	},
+	{
+		"name": "Interest on overdue amounts and liquidated damages",
+		"topicId": 145
+	},
+	{
+		"name": "Framework Contracting",
+		"topicId": 146
+	},
+	{
+		"name": "Performance Security",
+		"topicId": 147
+	},
+	{
+		"name": "Nature of performance security",
+		"topicId": 148
+	},
+	{
+		"name": "Seizure of the performance Security",
+		"topicId": 149
+	},
+	{
+		"name": "Recovery of the performance Security",
+		"topicId": 150
+	},
+	{
+		"name": "Advance payment",
+		"topicId": 151
+	},
+	{
+		"name": "Use of advance payment",
+		"topicId": 152
+	},
+	{
+		"name": "Sub-contracting",
+		"topicId": 153
+	},
+	{
+		"name": "Contract administration",
+		"topicId": 154
+	},
+	{
+		"name": "Complex and specialized contract implementation team",
+		"topicId": 155
+	},
+	{
+		"name": "Contract monitoring",
+		"topicId": 156
+	},
+	{
+		"name": "Termination of contract",
+		"topicId": 157
+	},
+	{
+		"name": "Contract close out",
+		"topicId": 158
+	},
+	{
+		"name": "Requirement for preferences and reservations",
+		"topicId": 159
+	},
+	{
+		"name": "Eligibility for more than one preference scheme",
+		"topicId": 160
+	},
+	{
+		"name": "Participation of candidates in preference and reservations",
+		"topicId": 161
+	},
+	{
+		"name": "Procurement plans and monitoring compliance",
+		"topicId": 162
+	},
+	{
+		"name": "Receipt, and recording of goods, works and services",
+		"topicId": 163
+	},
+	{
+		"name":
+			"Objectives of Inventory Control, Asset and Stores Management and Distribution",
+		"topicId": 164
+	},
+	{
+		"name": "Inventory, Stores and Assets Management system",
+		"topicId": 165
+	},
+	{
+		"name": "Management of Inventory, Stores and Assets",
+		"topicId": 166
+	},
+	{
+		"name": "Disposal committee",
+		"topicId": 167
+	},
+	{
+		"name": "students",
+		"topicId": 168
+	},
+	{
+		"name": "Disposal procedure",
+		"topicId": 169
+	},
+	{
+		"name": "Methods of disposal",
+		"topicId": 170
+	},
+	{
+		"name": "Restriction on disposal to employees, etc",
+		"topicId": 171
+	},
+	{
+		"name": "Request for a review",
+		"topicId": 172
+	},
+	{
+		"name": "Notification of review and suspension of proceedings",
+		"topicId": 173
+	},
+	{
+		"name": "Rejection of requests by Review Board Secretariat",
+		"topicId": 174
+	},
+	{
+		"name": "Parties to review",
+		"topicId": 175
+	},
+	{
+		"name": "Completion of review",
+		"topicId": 176
+	},
+	{
+		"name": "Dismissal of frivolous appeals",
+		"topicId": 177
+	},
+	{
+		"name": "Powers of Review Board",
+		"topicId": 178
+	},
+	{
+		"name": "Right to review is additional right",
+		"topicId": 179
+	},
+	{
+		"name": "Right to judicial review to procurement",
+		"topicId": 180
+	},
+	{
+		"name": "Prohibitions and offences",
+		"topicId": 181
+	},
+	{
+		"name": "General penalty and sanctions",
+		"topicId": 182
+	},
+	{
+		"name": "Protection from personal liability and indemnity",
+		"topicId": 183
+	},
+	{
+		"name": "Consultative meetings",
+		"topicId": 184
+	},
+	{
+		"name": "Making of Regulations",
+		"topicId": 185
+	},
+	{
+		"name": "Code of Ethics",
+		"topicId": 186
+	},
+	{
+		"name": "Repeal of No. 3 of 2005 and savings",
+		"topicId": 187
+	},
+	{
+		"name": "Transitional provisions",
+		"topicId": 188
+	},
+	{
+		"name": "Meetings",
+		"topicId": 189
+	},
+	{
+		"name": "Voting",
+		"topicId": 190
+	},
+	{
+		"name": "Chairperson and Vice Chairperson",
+		"topicId": 191
+	},
+	{
+		"name": "Secretary",
+		"topicId": 192
+	},
+	{
+		"name": "Minutes",
+		"topicId": 193
+	}
+]

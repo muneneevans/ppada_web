@@ -46,18 +46,19 @@ class Home extends Component {
 								<Header
 									as="h2"
 									content="PUBLIC PROCUREMENT AND ASSETS DISPOSAL ACT 2015"
-									inverted
+									// inverted
 									style={{
 										fontSize: "2.5em",
 										fontWeight: "normal",
 										marginBottom: 0,
 										marginTop: "5em"
 									}}
+									className="heading"
 								/>
 								<Header
 									as="h2"
 									content="Understanding procurement guidelines"
-									inverted
+									// inverted
 									style={{ fontSize: "1.7em", fontWeight: "normal" }}
 								/>
 								<Link to="/book">
@@ -83,22 +84,22 @@ class Home extends Component {
 									What it is about
 								</Header>
 								<p style={{ fontSize: "1.33em" }}>
-									The Public Procurement and Disposal Act, 2015 (the PPDA, 2015)
-									came into force on 7th January, 2016. The PPDA, 2015 is an Act
+									The Public Procurement and Disposal Act, 2015 (the PPADA, 2015)
+									came into force on 7th January, 2016. The PPADA, 2015 is an Act
 									of Parliament that seeks to give effect to Article 227 of the
 									Constitution which requires that an Act of Parliament be
 									enacted to prescribe a framework within which policies
 									relating to procurement and asset disposal in respect of a
 									State organ or any other public entity shall be implemented.
-									The PPDA, 2015 repealed the Public Procurement and Disposal
-									Act, 2005 (the PPDA 2005)
+									The PPADA, 2015 repealed the Public Procurement and Disposal
+									Act, 2005 (the PPADA 2005)
 								</p>
 
 								<p style={{ fontSize: "1.33em" }}>
-									The PPDA, 2015 applies to all State organs and public entities
+									The PPADA, 2015 applies to all State organs and public entities
 									with respect to procurement planning, procurement processing,
 									inventory and asset management, disposal of assets and
-									contract management. The PPDA, 2015 goes on to list the
+									contract management. The PPADA, 2015 goes on to list the
 									entities that would fall under the definition of a “public
 									entity” including but not limited to the national and county
 									governments (including any of their organs or departments),
