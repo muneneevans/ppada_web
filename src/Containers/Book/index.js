@@ -3,7 +3,9 @@ import Segment from "semantic-ui-react/dist/commonjs/elements/Segment/Segment"
 import configureStore from "../../Store/configureStore"
 var topics = require("../../Store/topics.json")
 var content = require("../../Store/content.json")
+var sections = require("../../Store/sections.json")
 import LogoImg from "../../Assets/Images/ppada.png"
+import TopicsBar from "./Accordion"
 
 import {
 	Grid,
@@ -22,13 +24,38 @@ export default class Book extends Component {
 		super(props)
 		this.state = {
 			currentNote: content[0],
-			topics: topics
+			topics: topics,
+			sections: sections,
+			searchMode: false
 		}
 	}
+
+	componentDidMount() {
+		document.addEventListener("keydown", this.handleKeyPress.bind(this))
+	}
+
+	handleKeyPress(event) {
+		if (event.key == "ArrowRight") {
+			this.goNext()
+		}
+		if (event.key == "ArrowLeft") {
+			this.goPrevious()
+		} else if ( "qwertyuiopasdfghjklzxcvbnm".indexOf(event.key) >0) {
+			// this.handleSearchInput(event.key)
+		}
+	}
+
 	topicClicked(topicId) {
 		this.setState({
 			...this.state,
 			currentNote: content.filter(item => item.topicId == topicId)[0]
+		})
+	}
+
+	pageClicked(pageId) {
+		this.setState({
+			...this.state,
+			currentNote: content.filter(item => item.id == pageId)[0]
 		})
 	}
 
@@ -61,21 +88,37 @@ export default class Book extends Component {
 		}
 	}
 
-	searchTopic(text) {
-		if (text == "") {
+	handleSearchInput(value) {
+		if (value === "") {
 			this.setState({
 				...this.state,
-				topics
+				searchMode: false
 			})
 		} else {
-			var found = topics.filter(item => {
-				return item.name.toLowerCase().indexOf(text.toLowerCase()) !== -1
-				
+			let results = content.map(page => {
+				let txt = page.content
+				let idx = txt.indexOf(value)
+				if (idx >= 0) {
+					return {
+						...page,
+						content: (
+							<p>
+								<strong style={{ textTransform: "bold", fontSize: "large" }}>
+									{value}
+								</strong>
+								{txt.substring(idx + value.length, idx + 150)+ "..."}
+							</p>
+						)
+					}
+				}
 			})
+
+			results = results.filter(item => item !== undefined)
 
 			this.setState({
 				...this.state,
-				topics: found
+				searchMode: true,
+				searchResults: results
 			})
 		}
 	}
@@ -90,42 +133,37 @@ export default class Book extends Component {
 					</Container>
 				</Grid>
 				<Grid columns={2} padded>
-					<Grid.Column width={4}>
+					<Grid.Column width={5}>
 						<Segment>
 							<Container fluid>
 								<Input
 									onChange={e => {
-										this.searchTopic(e.target.value)
+										this.handleSearchInput(e.target.value)
 									}}
 								/>
 							</Container>
-							{this.state.topics ? (
+							{this.state.searchMode ? (
 								<List>
-									{this.state.topics.map(topic => (
-										<List.Item key={topic.id}>
-											<List.Icon name="folder" />
-											<List.Content>
-												<List.Header>
-													<a
-														href="#"
-														onClick={() => {
-															this.topicClicked(topic.topicId)
-														}}
-													>
-														{topic.name}
-													</a>
-												</List.Header>
-											</List.Content>
+									{this.state.searchResults.map((page, i) => (
+										<List.Item
+											key={i}
+											as="a"
+											onClick={() => this.pageClicked(page.id)}
+										>
+											{page.content}
 										</List.Item>
 									))}
 								</List>
 							) : (
-								<h5>No topics found</h5>
+								<TopicsBar
+									sections={this.state.sections}
+									topicClicked={this.topicClicked.bind(this)}
+								/>
 							)}
 						</Segment>
 					</Grid.Column>
 
-					<Grid.Column width={12}>
+					<Grid.Column width={11}>
 						<Container fluid>
 							<Button
 								content="Previous"

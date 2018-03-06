@@ -1,5 +1,9 @@
 [
 	{
+		"name": "PUBLIC PROCUREMENT AND ASSET DISPOSAL ACT",
+		"topicId": 6
+	},
+	{
 		"name": "Short title",
 		"topicId": 2
 	},
@@ -28,8 +32,8 @@
 		"topicId": 11
 	},
 	{
-		"name": "PUBLIC PROCUREMENT AND ASSET DISPOSAL ACT",
-		"topicId": 6
+		"name": "The Public Procurement Regulatory Authority",
+		"topicId": 12
 	},
 	{
 		"name": "Functions of Authority",
@@ -94,10 +98,6 @@
 	{
 		"name": "Appeal",
 		"topicId": 10
-	},
-	{
-		"name": "The Public Procurement Regulatory Authority",
-		"topicId": 12
 	},
 	{
 		"name": "Staff of the Authority",

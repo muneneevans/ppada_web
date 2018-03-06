@@ -12,6 +12,7 @@ var config = {
 		filename: "main.js",
 		publicPath: "/build/"
 	},
+	devtool: "inline-cheap-module-source-map",
 	plugins: [new ExtractTextPlugin("[name].css")],
 	module: {
 		loaders: [
