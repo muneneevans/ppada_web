@@ -40,7 +40,7 @@ export default class Book extends Component {
 		}
 		if (event.key == "ArrowLeft") {
 			this.goPrevious()
-		} else if ( "qwertyuiopasdfghjklzxcvbnm".indexOf(event.key) >0) {
+		} else if ("qwertyuiopasdfghjklzxcvbnm".indexOf(event.key) > 0) {
 			// this.handleSearchInput(event.key)
 		}
 	}
@@ -97,7 +97,7 @@ export default class Book extends Component {
 		} else {
 			let results = content.map(page => {
 				let txt = page.content
-				let idx = txt.indexOf(value)
+				let idx = txt.toLowerCase().indexOf(value.toLowerCase())
 				if (idx >= 0) {
 					return {
 						...page,
@@ -106,7 +106,7 @@ export default class Book extends Component {
 								<strong style={{ textTransform: "bold", fontSize: "large" }}>
 									{value}
 								</strong>
-								{txt.substring(idx + value.length, idx + 150)+ "..."}
+								{txt.substring(idx + value.length, idx + 150) + "..."}
 							</p>
 						)
 					}
@@ -181,7 +181,9 @@ export default class Book extends Component {
 								<Header as="h1">{this.state.currentNote.title}</Header>
 								<Divider />
 								<Container textAlign="justified">
-									<span>{this.state.currentNote.content}</span>
+									<span style={{whiteSpace: "pre-line", textAlign: "center"} }>
+										{this.state.currentNote.content}
+									</span>
 								</Container>
 							</Container>
 						</Segment>
