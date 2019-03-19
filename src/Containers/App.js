@@ -32,11 +32,13 @@ export default class App extends Component {
 				<Router>
 					<div>
 						<FixedMenu />
-						<Switch>
-							<Route exact path="/" component={Home} />
-							<Route path="/book" component={Book} />
-							<Route path="/home" component={Home} />
-						</Switch>
+						<div className="bannerContainer">
+							<Switch>
+								<Route exact path="/" component={Home} />
+								<Route path="/book" component={Book} />
+								<Route path="/home" component={Home} />
+							</Switch>
+						</div>
 					</div>
 				</Router>
 			</div>

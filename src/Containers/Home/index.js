@@ -27,7 +27,7 @@ class Home extends Component {
 		const { visible } = this.state
 
 		return (
-			<div>
+			<div >
 				<Visibility
 					as="div"
 					onBottomPassed={this.showFixedMenu}

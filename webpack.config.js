@@ -10,7 +10,9 @@ var config = {
 	output: {
 		path: DIST_DIR + "/build",
 		filename: "main.js",
-		publicPath: "/build/"
+		// publicPath: "/build/"
+		// publicPath: "/act/build/"
+		publicPath: ""
 	},
 	devtool: "inline-cheap-module-source-map",
 	plugins: [new ExtractTextPlugin("[name].css")],
@@ -26,7 +28,7 @@ var config = {
 			},
 			{
 				test: /\.(jpe?g|png|gif|svg|eot|svg|ttf|woff|woff2)$/,
-				loader: "file-loader"
+				loader: "url-loader?mimetype=image/png"
 			},
 			{
 				test: /\.css$/,

@@ -7,27 +7,27 @@
 				"topicId": 6
 			},
 			{
-				"name": "Short title",
+				"name": "1. Short title",
 				"topicId": 2
 			},
 			{
-				"name": "Interpretation",
+				"name": "2. Interpretation",
 				"topicId": 8
 			},
 			{
-				"name": "Guiding principles",
+				"name": "3. Guiding principles",
 				"topicId": 3
 			},
 			{
-				"name": "Application of the Act",
+				"name": "4. Application of the Act",
 				"topicId": 5
 			},
 			{
-				"name": "Conflicts with other Acts",
+				"name": "5. Conflicts with other Acts",
 				"topicId": 4
 			},
 			{
-				"name": "Conflicts with international agreements",
+				"name": "6. Conflicts with international agreements",
 				"topicId": 7
 			}
 		]
@@ -38,116 +38,110 @@
 		"topics": [
 			{
 				"name":
-					"Role National Treasury on public procurement and assets disposal",
+					"7. Role National Treasury on public procurement and assets disposal",
 				"topicId": 11
 			},
 			{
-				"name": "The Public Procurement Regulatory Authority",
+				"name": "8. The Public Procurement Regulatory Authority",
 				"topicId": 12
 			},
 			{
-				"name": "Functions of Authority",
+				"name": "9. Functions of Authority",
 				"topicId": 13
 			},
 			{
-				"name": "Public Procurement Regulatory Board",
+				"name": "10. Public Procurement Regulatory Board",
 				"topicId": 14
 			},
 			{
-				"name": "Qualifications of members of the Board",
+				"name": "11. Qualifications of members of the Board",
 				"topicId": 15
 			},
 			{
-				"name": "Functions of the Board",
+				"name": "12. Functions of the Board",
 				"topicId": 16
 			},
 			{
-				"name": "Tenure of office",
+				"name": "13. Tenure of office",
 				"topicId": 17
 			},
 			{
-				"name": "Procedures of the Board",
+				"name": "14. Procedures of the Board",
 				"topicId": 18
 			},
 			{
-				"name": "Director-General of the Authority",
+				"name": "15. Director-General of the Authority",
 				"topicId": 19
 			},
 			{
-				"name": "Term of office of Director-General",
+				"name": "16. Term of office of Director-General",
 				"topicId": 20
 			},
 			{
-				"name": "Functions of the Director-General",
+				"name": "17. Functions of the Director-General",
 				"topicId": 21
 			},
 			{
-				"name": "Restrictions on activities of Director-General",
+				"name": "18. Restrictions on activities of Director-General",
 				"topicId": 22
 			},
 			{
-				"name": "Terms and conditions of service of Director-General and staff",
+				"name":
+					"19. Terms and conditions of service of Director-General and staff",
 				"topicId": 23
 			},
 			{
-				"name": "Vacancy of office",
+				"name": "20. Vacancy of office",
 				"topicId": 24
 			},
 			{
-				"name": "Removal of Director-General",
+				"name": "21. Removal of Director-General",
 				"topicId": 25
 			},
 			{
-				"name": "Acting Director-General",
+				"name": "22. Acting Director-General",
 				"topicId": 26
 			},
 			{
-				"name": "Accounting officer",
-				"topicId": 9
-			},
-			{
-				"name": "Appeal",
-				"topicId": 10
-			},
-			{
-				"name": "Staff of the Authority",
+				"name": "23. Staff of the Authority",
 				"topicId": 27
 			},
 			{
-				"name": "Financial arrangements",
+				"name": "24. Financial arrangements",
 				"topicId": 28
 			},
 			{
-				"name": "Audit",
+				"name": "25. Audit",
 				"topicId": 29
 			},
 			{
-				"name": "Annual reports",
+				"name": "26. Annual reports",
 				"topicId": 30
 			},
 			{
 				"name":
-					"Establishment of the Public Procurement Administrative Review Board",
+					"27. Establishment of the Public Procurement Administrative Review Board",
 				"topicId": 31
 			},
 			{
-				"name": "Functions and powers of the Review Board",
+				"name": "28. Functions and powers of the Review Board",
 				"topicId": 32
 			},
 			{
-				"name": "Composition of the Review Board",
+				"name": "29. Composition of the Review Board",
 				"topicId": 33
 			},
 			{
-				"name": "Qualifications of members of the Review Board",
+				"name": "30. Qualifications of members of the Review Board",
 				"topicId": 34
 			},
 			{
-				"name": "Tenure of Office",
+				"name": "31. Tenure of Office",
 				"topicId": 35
 			},
 			{
-				"name": "Terms and conditions of service of the Review Board members",
+				"name":
+					"32. Terms and conditions of service of the Review Board members",
 				"topicId": 36
 			}
 		]
@@ -157,7 +151,7 @@
 			"PART III — COUNTY GOVERNMENT RESPONSIBILITIES WITH RESPECT TO PUBLIC PROCUREMENT AND ASSET DISPOSAL ",
 		"topics": [
 			{
-				"name": "Roles and Responsibilities of the County Government",
+				"name": "33. Roles and Responsibilities of the County Government",
 				"topicId": 37
 			}
 		]
@@ -166,44 +160,44 @@
 		"name": "PART IV — POWERS TO ENSURE COMPLIANCE.",
 		"topics": [
 			{
-				"name": "Powers to ensure compliance",
+				"name": "34. Powers to ensure compliance",
 				"topicId": 38
 			},
 			{
-				"name": "Investigations",
+				"name": "35. Investigations",
 				"topicId": 39
 			},
 			{
-				"name": "Powers of investigators",
+				"name": "36. Powers of investigators",
 				"topicId": 40
 			},
 			{
-				"name": "Report of investigation",
+				"name": "37. Report of investigation",
 				"topicId": 41
 			},
 			{
-				"name": "Order by the Director-General",
+				"name": "38. Order by the Director-General",
 				"topicId": 42
 			},
 			{
-				"name": "Request for a Judicial review",
+				"name": "39. Request for a Judicial review",
 				"topicId": 43
 			},
 			{
-				"name": "No investigation if issue before Review Board",
+				"name": "40. No investigation if issue before Review Board",
 				"topicId": 44
 			},
 			{
-				"name": "Debarment",
+				"name": "41. Debarment",
 				"topicId": 45
 			},
 			{
-				"name": "Judicial Review",
+				"name": "42. Judicial Review",
 				"topicId": 46
 			},
 			{
 				"name":
-					"Inspections, Assessments and Reviews relating to contracts, procurement and asset disposal proceedings",
+					"43. Inspections, Assessments and Reviews relating to contracts, procurement and asset disposal proceedings",
 				"topicId": 47
 			}
 		]
@@ -212,40 +206,40 @@
 		"name": "PART V — INTERNAL ORGANISATION OF PROCURING ENTITIES.",
 		"topics": [
 			{
-				"name": "Responsibilities of the accounting officer",
+				"name": "44. Responsibilities of the accounting officer",
 				"topicId": 48
 			},
 			{
-				"name": "Corporate decisions and segregation of responsibilities",
+				"name": "45. Corporate decisions and segregation of responsibilities",
 				"topicId": 49
 			},
 			{
-				"name": "Evaluation Committee",
+				"name": "46. Evaluation Committee",
 				"topicId": 50
 			},
 			{
-				"name": "Procurement function",
+				"name": "47. Procurement function",
 				"topicId": 51
 			},
 			{
-				"name": "Inspection and acceptance committee",
+				"name": "48. Inspection and acceptance committee",
 				"topicId": 52
 			},
 			{
-				"name": "Sector-specific procuring and disposal agencies",
+				"name": "49. Sector-specific procuring and disposal agencies",
 				"topicId": 53
 			},
 			{
-				"name": "Consortium buying",
+				"name": "50. Consortium buying",
 				"topicId": 54
 			},
 			{
-				"name": "Procuring agents or asset disposal agents",
+				"name": "51. Procuring agents or asset disposal agents",
 				"topicId": 55
 			},
 			{
 				"name":
-					"Transfer of procuring responsibility to another public entity or procuring agent",
+					"52. Transfer of procuring responsibility to another public entity or procuring agent",
 				"topicId": 56
 			}
 		]
@@ -254,74 +248,75 @@
 		"name": "PART VI —GENERAL PROCUREMENT PRINCIPLES. ",
 		"topics": [
 			{
-				"name": "Procurement and asset disposal planning",
+				"name": "53. Procurement and asset disposal planning",
 				"topicId": 57
 			},
 			{
-				"name": "Procurement pricing and requirement not to split of contracts",
+				"name":
+					"54. Procurement pricing and requirement not to split of contracts",
 				"topicId": 58
 			},
 			{
-				"name": "Eligibility to bid",
+				"name": "55. Eligibility to bid",
 				"topicId": 59
 			},
 			{
-				"name": "Use of list of another state organ or public entity",
+				"name": "56. Use of list of another state organ or public entity",
 				"topicId": 60
 			},
 			{
-				"name": "List of registered suppliers",
+				"name": "57. List of registered suppliers",
 				"topicId": 61
 			},
 			{
-				"name": "Standard procurement and asset disposal documents",
+				"name": "58. Standard procurement and asset disposal documents",
 				"topicId": 62
 			},
 			{
-				"name": "Limitation on contracts with state and public officers",
+				"name": "59. Limitation on contracts with state and public officers",
 				"topicId": 63
 			},
 			{
-				"name": "Specific requirements",
+				"name": "60. Specific requirements",
 				"topicId": 64
 			},
 			{
-				"name": "Tender security",
+				"name": "61. Tender security",
 				"topicId": 65
 			},
 			{
-				"name": "Declaration not to engage in corruption",
+				"name": "62. Declaration not to engage in corruption",
 				"topicId": 66
 			},
 			{
 				"name":
-					"Termination or cancellation of procurement and asset disposal proceedings",
+					"63. Termination or cancellation of procurement and asset disposal proceedings",
 				"topicId": 67
 			},
 			{
 				"name":
-					"Form of communications, electronic procurement and asset disposal",
+					"64. Form of communications, electronic procurement and asset disposal",
 				"topicId": 68
 			},
 			{
-				"name": "Inappropriate influence on evaluations, etc",
+				"name": "65. Inappropriate influence on evaluations, etc",
 				"topicId": 69
 			},
 			{
 				"name":
-					"Corrupt, coercive, obstructive, collusive or fraudulent practice, conflicts of interest",
+					"66. Corrupt, coercive, obstructive, collusive or fraudulent practice, conflicts of interest",
 				"topicId": 70
 			},
 			{
-				"name": "Confidentiality",
+				"name": "67. Confidentiality",
 				"topicId": 71
 			},
 			{
-				"name": "Procurement records",
+				"name": "68. Procurement records",
 				"topicId": 72
 			},
 			{
-				"name": "Procurement approvals",
+				"name": "69. Procurement approvals",
 				"topicId": 73
 			}
 		]
@@ -330,83 +325,83 @@
 		"name": "PART VII — BASIC PROCUREMENT RULES ",
 		"topics": [
 			{
-				"name": "Standard tender documents",
+				"name": "70. Standard tender documents",
 				"topicId": 74
 			},
 			{
-				"name": "Registration of suppliers",
+				"name": "71. Registration of suppliers",
 				"topicId": 75
 			},
 			{
-				"name": "Responsibility for complying with Act, etc",
+				"name": "72. Responsibility for complying with Act, etc",
 				"topicId": 76
 			},
 			{
-				"name": "Initiation of procurement process",
+				"name": "73. Initiation of procurement process",
 				"topicId": 77
 			},
 			{
-				"name": "Invitation to tender",
+				"name": "74. Invitation to tender",
 				"topicId": 78
 			},
 			{
-				"name": "Modifications to tender documents",
+				"name": "75. Modifications to tender documents",
 				"topicId": 79
 			},
 			{
-				"name": "Modification of bids",
+				"name": "76. Modification of bids",
 				"topicId": 80
 			},
 			{
-				"name": "Submission and receipt of tenders",
+				"name": "77. Submission and receipt of tenders",
 				"topicId": 81
 			},
 			{
-				"name": "Opening of tenders",
+				"name": "78. Opening of tenders",
 				"topicId": 82
 			},
 			{
-				"name": "Responsiveness of tenders",
+				"name": "79. Responsiveness of tenders",
 				"topicId": 83
 			},
 			{
-				"name": "Evaluation of tenders",
+				"name": "80. Evaluation of tenders",
 				"topicId": 84
 			},
 			{
-				"name": "Clarifications",
+				"name": "81. Clarifications",
 				"topicId": 85
 			},
 			{
-				"name": "No correction of errors",
+				"name": "82. No correction of errors",
 				"topicId": 86
 			},
 			{
-				"name": "Post-qualification",
+				"name": "83. Post-qualification",
 				"topicId": 87
 			},
 			{
-				"name": "Professional opinion",
+				"name": "84. Professional opinion",
 				"topicId": 88
 			},
 			{
-				"name": "Recommendation for contract awards",
+				"name": "85. Recommendation for contract awards",
 				"topicId": 89
 			},
 			{
-				"name": "Successful tender",
+				"name": "86. Successful tender",
 				"topicId": 90
 			},
 			{
-				"name": "Notification of intention to enter into a contract",
+				"name": "87. Notification of intention to enter into a contract",
 				"topicId": 91
 			},
 			{
-				"name": "Extension of tender validity period",
+				"name": "88. Extension of tender validity period",
 				"topicId": 92
 			},
 			{
-				"name": "International tendering and competition",
+				"name": "89. International tendering and competition",
 				"topicId": 93
 			}
 		]
@@ -415,7 +410,7 @@
 		"name": "PART VIII — CLASSIFIED PROCUREMENT METHODS AND PROCEDURES ",
 		"topics": [
 			{
-				"name": "Classified procurements and disposals",
+				"name": "90. Classified procurements and disposals",
 				"topicId": 94
 			}
 		]
@@ -424,103 +419,103 @@
 		"name": "PART IX — METHODS OF PROCUREMENT OF GOODS, WORKS AND SERVICES.",
 		"topics": [
 			{
-				"name": "Choice of procurement procedure",
+				"name": "91. Choice of procurement procedure",
 				"topicId": 95
 			},
 			{
-				"name": "Methods of procurement",
+				"name": "92. Methods of procurement",
 				"topicId": 96
 			},
 			{
-				"name": "Pre-qualification",
+				"name": "93. Pre-qualification",
 				"topicId": 97
 			},
 			{
-				"name": "Pre-qualification documents",
+				"name": "94. Pre-qualification documents",
 				"topicId": 98
 			},
 			{
-				"name": "Approval of pre-qualified candidates",
+				"name": "95. Approval of pre-qualified candidates",
 				"topicId": 99
 			},
 			{
-				"name": "Advertisement",
+				"name": "96. Advertisement",
 				"topicId": 100
 			},
 			{
-				"name": "Time for preparing tenders",
+				"name": "97. Time for preparing tenders",
 				"topicId": 101
 			},
 			{
-				"name": "Provision of tender documents",
+				"name": "98. Provision of tender documents",
 				"topicId": 102
 			},
 			{
-				"name": "Two-Stage Tendering",
+				"name": "99. Two-Stage Tendering",
 				"topicId": 103
 			},
 			{
-				"name": "Condition for use of Design Competitions",
+				"name": "100. Condition for use of Design Competitions",
 				"topicId": 104
 			},
 			{
-				"name": "Procedure for design competition",
+				"name": "101. Procedure for design competition",
 				"topicId": 105
 			},
 			{
-				"name": "Restricted tendering",
+				"name": "102. Restricted tendering",
 				"topicId": 106
 			},
 			{
-				"name": "When direct procurement may be used",
+				"name": "103. When direct procurement may be used",
 				"topicId": 107
 			},
 			{
-				"name": "Procedure for direct procurement",
+				"name": "104. Procedure for direct procurement",
 				"topicId": 108
 			},
 			{
-				"name": "When request for quotations may be used",
+				"name": "105. When request for quotations may be used",
 				"topicId": 109
 			},
 			{
-				"name": "Procedure for request for quotations",
+				"name": "106. Procedure for request for quotations",
 				"topicId": 110
 			},
 			{
-				"name": "When low-value procurement may be used",
+				"name": "107. When low-value procurement may be used",
 				"topicId": 111
 			},
 			{
-				"name": "Procedure for low-value procurement",
+				"name": "108. Procedure for low-value procurement",
 				"topicId": 112
 			},
 			{
-				"name": "Force Account",
+				"name": "109. Force Account",
 				"topicId": 113
 			},
 			{
-				"name": "Reverse Auction",
+				"name": "110.Reverse Auction",
 				"topicId": 114
 			},
 			{
-				"name": "Conditions for use of Reverse Auctions",
+				"name": "111. Conditions for use of Reverse Auctions",
 				"topicId": 115
 			},
 			{
-				"name": "Procedure for Reverse Auction",
+				"name": "112. Procedure for Reverse Auction",
 				"topicId": 116
 			},
 			{
-				"name": "Successful reverse auctioneering bid",
+				"name": "113. Successful reverse auctioneering bid",
 				"topicId": 117
 			},
 			{
-				"name": "Framework agreement",
+				"name": "114. Framework agreement",
 				"topicId": 118
 			},
 			{
-				"name": "Specially permitted procurement procedure",
+				"name": "114A. Specially permitted procurement procedure",
 				"topicId": 119
 			}
 		]
@@ -529,80 +524,81 @@
 		"name": "PART X— PROCUREMENT OF CONSULTANCY SERVICES ",
 		"topics": [
 			{
-				"name": "Application of this Part",
+				"name": "115. Application of this Part",
 				"topicId": 120
 			},
 			{
-				"name": "When request for proposals may be used",
+				"name": "116. When request for proposals may be used",
 				"topicId": 121
 			},
 			{
 				"name":
-					"Terms of reference and invitation of tenders from shortlisted firms",
+					"117. Terms of reference and invitation of tenders from shortlisted firms",
 				"topicId": 122
 			},
 			{
-				"name": "Request for proposal inviting expression of interest",
+				"name": "118. Request for proposal inviting expression of interest",
 				"topicId": 123
 			},
 			{
-				"name": "Notice inviting expressions of interest",
+				"name": "119. Notice inviting expressions of interest",
 				"topicId": 124
 			},
 			{
-				"name": "Opening of proposals",
+				"name": "120. Opening of proposals",
 				"topicId": 125
 			},
 			{
-				"name": "Evaluation and shortlisting",
+				"name": "121. Evaluation and shortlisting",
 				"topicId": 126
 			},
 			{
-				"name": "Determination of qualified persons",
+				"name": "122. Determination of qualified persons",
 				"topicId": 127
 			},
 			{
-				"name": "Request for proposals to qualified persons",
+				"name": "123. Request for proposals to qualified persons",
 				"topicId": 128
 			},
 			{
-				"name": "Selection methods for requests for proposals",
+				"name": "124. Selection methods for requests for proposals",
 				"topicId": 129
 			},
 			{
-				"name": "Time for preparing proposals",
+				"name": "125. Time for preparing proposals",
 				"topicId": 130
 			},
 			{
-				"name": "Evaluation of proposals",
+				"name": "126. Evaluation of proposals",
 				"topicId": 131
 			},
 			{
-				"name": "Successful proposal",
+				"name": "127. Successful proposal",
 				"topicId": 132
 			},
 			{
-				"name": "Negotiations with successful request for proposal tenderer",
+				"name":
+					"128. Negotiations with successful request for proposal tenderer",
 				"topicId": 133
 			},
 			{
-				"name": "Contract requirements",
+				"name": "129. Contract requirements",
 				"topicId": 134
 			},
 			{
-				"name": "Restriction on entering into related contracts",
+				"name": "130. Restriction on entering into related contracts",
 				"topicId": 135
 			},
 			{
-				"name": "Competitive Negotiations",
+				"name": "131. Competitive Negotiations",
 				"topicId": 136
 			},
 			{
-				"name": "Procedure for Competitive Negotiations",
+				"name": "132. Procedure for Competitive Negotiations",
 				"topicId": 137
 			},
 			{
-				"name": "Successful best and final offer",
+				"name": "133. Successful best and final offer",
 				"topicId": 138
 			}
 		]
@@ -611,83 +607,87 @@
 		"name": "PART XI—PROCUREMENT CONTRACTS.",
 		"topics": [
 			{
-				"name": "Preparation of contracts",
+				"name": "134. Preparation of contracts",
 				"topicId": 139
 			},
 			{
-				"name": "Creation of procurement contracts",
+				"name": "135. Creation of procurement contracts",
 				"topicId": 140
 			},
 			{
-				"name": "Refusal to sign contract",
+				"name": "136. Refusal to sign contract",
 				"topicId": 141
 			},
 			{
-				"name": "Changes to contract responsibilities",
+				"name": "137. Changes to contract responsibilities",
 				"topicId": 142
 			},
 			{
-				"name": "Publication of procurement contract",
+				"name": "138. Publication of procurement contract",
 				"topicId": 143
 			},
 			{
-				"name": "Amendments or variations to contracts",
+				"name": "139. Amendments or variations to contracts",
 				"topicId": 144
 			},
 			{
-				"name": "Interest on overdue amounts and liquidated damages",
+				"name": "140. Interest on overdue amounts and liquidated damages",
 				"topicId": 145
 			},
 			{
-				"name": "Framework Contracting",
+				"name": "141. Framework Contracting",
 				"topicId": 146
 			},
 			{
-				"name": "Performance Security",
+				"name": "142. Performance Security",
 				"topicId": 147
 			},
 			{
-				"name": "Nature of performance security",
+				"name": "143. Nature of performance security",
 				"topicId": 148
 			},
 			{
-				"name": "Seizure of the performance Security",
+				"name": "144. Seizure of the performance Security",
 				"topicId": 149
 			},
 			{
-				"name": "Recovery of the performance Security",
+				"name": "145. Recovery of the performance Security",
 				"topicId": 150
 			},
 			{
-				"name": "Advance payment",
+				"name": "146. Advance payment",
 				"topicId": 151
 			},
 			{
-				"name": "Use of advance payment",
+				"name": "147. Use of advance payment",
 				"topicId": 152
 			},
 			{
-				"name": "Sub-contracting",
+				"name": "148. Use of Advance Payment",
 				"topicId": 153
 			},
 			{
-				"name": "Contract administration",
+				"name": "149. Sub-Contracting",
 				"topicId": 154
 			},
 			{
-				"name": "Complex and specialized contract implementation team",
+				"name": "150. Contract Administration",
 				"topicId": 155
 			},
 			{
-				"name": "Contract monitoring",
+				"name": "151. Complex and specialized contract implementation team",
 				"topicId": 156
 			},
 			{
-				"name": "Termination of contract",
+				"name": "152. Contract Monitoring",
 				"topicId": 157
 			},
 			{
-				"name": "Contract close out",
+				"name": "153. Termination of Contract",
+				"topicId": 158
+			},
+			{
+				"name": "154. Contract close out",
 				"topicId": 158
 			}
 		]
@@ -696,19 +696,20 @@
 		"name": "PART XII — PREFERENCES AND RESERVATION IN PROCUREMENT.",
 		"topics": [
 			{
-				"name": "Requirement for preferences and reservations",
+				"name": "155. Requirement for preferences and reservations",
 				"topicId": 159
 			},
 			{
-				"name": "Eligibility for more than one preference scheme",
+				"name": "156. Eligibility for more than one preference scheme",
 				"topicId": 160
 			},
 			{
-				"name": "Participation of candidates in preference and reservations",
+				"name":
+					"157. Participation of candidates in preference and reservations",
 				"topicId": 161
 			},
 			{
-				"name": "Procurement plans and monitoring compliance",
+				"name": "158. Procurement plans and monitoring compliance",
 				"topicId": 162
 			}
 		]
@@ -718,20 +719,20 @@
 			"PART XIII — INVENTORY CONTROL, ASSET AND STORES MANAGEMENT AND DISTRIBUTION.",
 		"topics": [
 			{
-				"name": "Receipt, and recording of goods, works and services",
+				"name": "159. Receipt, and recording of goods, works and services",
 				"topicId": 163
 			},
 			{
 				"name":
-					"Objectives of Inventory Control, Asset and Stores Management and Distribution",
+					"160. Objectives of Inventory Control, Asset and Stores Management and Distribution",
 				"topicId": 164
 			},
 			{
-				"name": "Inventory, Stores and Assets Management system",
+				"name": "161. Inventory, Stores and Assets Management system",
 				"topicId": 165
 			},
 			{
-				"name": "Management of Inventory, Stores and Assets",
+				"name": "162. Management of Inventory, Stores and Assets",
 				"topicId": 166
 			}
 		]
@@ -740,24 +741,20 @@
 		"name": "PART XIV — DISPOSAL OF ASSETS.",
 		"topics": [
 			{
-				"name": "Disposal committee",
+				"name": "163. Disposal committee",
 				"topicId": 167
 			},
 			{
-				"name": "students",
+				"name": "164. Disposal procedure",
 				"topicId": 168
 			},
 			{
-				"name": "Disposal procedure",
+				"name": "165. Methods of disposal",
 				"topicId": 169
 			},
 			{
-				"name": "Methods of disposal",
+				"name": "166. Restriction on Disposal to Employees, etc ",
 				"topicId": 170
-			},
-			{
-				"name": "Restriction on disposal to employees, etc",
-				"topicId": 171
 			}
 		]
 	},
@@ -766,51 +763,51 @@
 			"PART XV — ADMINISTRATIVE REVIEW OF PROCUREMENT AND DISPOSAL PROCEEDINGS.",
 		"topics": [
 			{
-				"name": "Request for a review",
+				"name": "167. Request for a review",
 				"topicId": 172
 			},
 			{
-				"name": "Notification of review and suspension of proceedings",
+				"name": "168. Notification of review and suspension of proceedings",
 				"topicId": 173
 			},
 			{
-				"name": "Rejection of requests by Review Board Secretariat",
+				"name": "169. Rejection of requests by Review Board Secretariat",
 				"topicId": 174
 			},
 			{
-				"name": "Parties to review",
+				"name": "170. Parties to review",
 				"topicId": 175
 			},
 			{
-				"name": "Completion of review",
+				"name": "171. Completion of review",
 				"topicId": 176
 			},
 			{
-				"name": "Dismissal of frivolous appeals",
+				"name": "172. Dismissal of frivolous appeals",
 				"topicId": 177
 			},
 			{
-				"name": "Powers of Review Board",
+				"name": "173. Powers of Review Board",
 				"topicId": 178
 			},
 			{
-				"name": "Right to review is additional right",
+				"name": "174. Right to review is additional right",
 				"topicId": 179
 			},
 			{
-				"name": "Right to judicial review to procurement",
+				"name": "175. Right to judicial review to procurement",
 				"topicId": 180
 			},
 			{
-				"name": "Prohibitions and offences",
+				"name": "176. Prohibitions and offences",
 				"topicId": 181
 			},
 			{
-				"name": "General penalty and sanctions",
+				"name": "177. General penalty and sanctions",
 				"topicId": 182
 			},
 			{
-				"name": "Protection from personal liability and indemnity",
+				"name": "178. Protection from personal liability and indemnity",
 				"topicId": 183
 			}
 		]
@@ -819,15 +816,15 @@
 		"name": "PART XVII —POLICY OPERATIONALIZATION AND REVIEW.",
 		"topics": [
 			{
-				"name": "Consultative meetings",
+				"name": "179. Consultative meetings",
 				"topicId": 184
 			},
 			{
-				"name": "Making of Regulations",
+				"name": "180. Making of Regulations",
 				"topicId": 185
 			},
 			{
-				"name": "Code of Ethics",
+				"name": "181. Code of Ethics",
 				"topicId": 186
 			}
 		]
@@ -836,11 +833,11 @@
 		"name": "PART XVIII — REPEAL, TRANSITION AND SAVINGS PROVISIONS.",
 		"topics": [
 			{
-				"name": "Repeal of No. 3 of 2005 and savings",
+				"name": "182. Repeal of No. 3 of 2005 and savings",
 				"topicId": 187
 			},
 			{
-				"name": "Transitional provisions",
+				"name": "183. Transitional provisions",
 				"topicId": 188
 			},
 			{

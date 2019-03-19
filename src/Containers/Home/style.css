@@ -1,6 +1,10 @@
 body {
   background-color: #ffffff;
 }
+
+.bannerContainer {
+  padding-top: 5em;
+}
 .ui.menu .item img.logo {
   margin-right: 1.5em;
 }
